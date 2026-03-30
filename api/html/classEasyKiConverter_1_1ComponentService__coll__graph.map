@@ -1,0 +1,25 @@
+<map id="EasyKiConverter::ComponentService" name="EasyKiConverter::ComponentService">
+<area shape="rect" id="Node000001" title="元件服务类" alt="" coords="517,2136,754,2856"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="401,5,468,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,49,327,60,261,76,204,96,184,109,171,122,132,200,99,295,71,405,48,527,31,659,18,798,11,942,8,1088,10,1235,17,1380,28,1520,44,1654,63,1778,88,1891,116,1990,147,2072,180,2132,220,2188,266,2240,316,2287,368,2330,420,2368,518,2431,515,2435,417,2373,365,2334,313,2291,263,2243,216,2191,176,2135,143,2074,110,1991,82,1892,58,1779,38,1654,23,1521,12,1380,5,1235,3,1088,5,942,13,797,25,658,43,526,66,404,94,294,128,198,167,118,180,104,202,92,260,71,326,54,387,43"/>
+<area shape="rect" id="Node000003" href="$classEasyKiConverter_1_1EasyedaApi.html" title="EasyEDA API 客户端类" alt="" coords="157,1408,402,2073"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="388,43,341,48,288,61,238,85,216,101,198,121,193,139,189,179,182,310,176,701,179,1118,185,1281,192,1384,195,1408,190,1408,186,1384,179,1281,174,1118,171,701,177,309,184,178,188,138,193,119,212,97,235,80,286,56,340,43,387,37"/>
+<area shape="rect" id="Node000004" href="$classEasyKiConverter_1_1INetworkAdapter.html" title="网络适配器接口" alt="" coords="208,230,397,510"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="419,84,361,231,356,229,414,82"/>
+<area shape="rect" id="Node000005" href="$classEasyKiConverter_1_1EasyedaImporter.html" title="EasyEDA 数据导入器类" alt="" coords="335,944,520,1084"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="437,85,431,944,426,944,431,85"/>
+<area shape="rect" id="Node000006" href="$classEasyKiConverter_1_1LcscImageService.html" title="LCSC 图片服务类" alt="" coords="527,644,768,1384"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="452,83,456,94,525,372,582,643,577,644,519,374,450,95,447,84"/>
+<area shape="rect" id="Node000008" href="$classEasyKiConverter_1_1ParallelFetchContext.html" title=" " alt="" coords="776,834,960,1194"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="481,65,511,89,539,118,591,189,630,252,660,310,683,366,723,488,773,643,803,738,829,833,824,834,798,740,768,645,718,490,678,368,655,312,625,254,586,192,535,122,508,93,478,69"/>
+<area shape="rect" id="Node000009" href="$classEasyKiConverter_1_1ComponentQueueManager.html" title=" " alt="" coords="814,120,1038,620"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="482,41,625,59,695,73,744,92,782,123,816,159,812,162,779,127,741,97,694,79,624,64,482,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="394,2073,411,2111,459,2205,511,2296,506,2298,454,2207,407,2113,390,2075"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="248,511,227,577,212,644,203,716,198,805,196,1013,201,1222,212,1384,213,1391,207,1392,206,1384,196,1222,190,1013,193,805,198,715,206,644,222,576,242,509"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="436,1084,477,1503,511,1786,552,2073,560,2120,554,2121,546,2074,505,1786,472,1503,431,1085"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="647,1384,641,2119,636,2119,642,1384"/>
+<area shape="rect" id="Node000007" href="$classEasyKiConverter_1_1ComponentData.html" title="元件数据" alt="" coords="1131,1478,1367,2003"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="1156,2005,1114,2075,1035,2172,945,2261,854,2340,770,2406,766,2402,851,2336,942,2257,1031,2168,1110,2072,1152,2002"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="848,1194,824,1408,811,1596,808,1742,800,1888,789,1974,772,2074,761,2124,756,2123,766,2073,784,1973,794,1888,803,1742,806,1595,818,1408,842,1194"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="962,620,964,644,974,913,981,1362,982,1597,978,1809,969,1975,962,2035,953,2074,918,2156,872,2233,821,2305,768,2368,764,2364,816,2301,868,2230,913,2153,948,2073,956,2034,963,1975,972,1809,976,1597,976,1362,968,913,958,644,957,620"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="EasyKiConverter::ExporterFootprint" name="EasyKiConverter::ExporterFootprint">
+<area shape="rect" id="Node000001" title="KiCad 封装导出器类" alt="" coords="17,348,222,568"/>
+<area shape="rect" id="Node000002" href="$classEasyKiConverter_1_1FootprintGraphicsGenerator.html" title="封装图形生成器" alt="" coords="5,5,233,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,285,122,332,117,332,117,285"/>
+</map>
